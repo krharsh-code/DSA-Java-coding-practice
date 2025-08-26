@@ -1,12 +1,11 @@
-# Java DSA Prep
+# 🚀 Java DSA Preparation
 
-A collection of solved **Data Structures and Algorithms (DSA)** problems using **Java**.
+Welcome to my **Java DSA Practice Repository**!  
+This repo contains **structured solutions** to Data Structures & Algorithms problems, categorized by **topic** and **difficulty**.
 
-This repository currently contains solutions to 8–7 commonly asked DSA questions, written with clean, efficient logic and helpful comments.
+All problems are implemented in **Java** with clean code, comments, and problem references.
 
 ---
 
-## 📁 Structure
-
-Each file contains one focused question with a clean Java solution:
+## 📁 Project Structure
 
